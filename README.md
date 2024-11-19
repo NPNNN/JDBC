@@ -1,4 +1,4 @@
-**DESCRIPTION**This is a Truck Management system built using Java with Maven. It provides functionality for managing truck details, including truck information and driver details. The system uses JDBC (Java Database Connectivity) to interact with the database and store truck data.
+**DESCRIPTION** This is a Truck Management system built using Java with Maven. It provides functionality for managing truck details, including truck information and driver details. The system uses JDBC (Java Database Connectivity) to interact with the database and store truck data.
 
 **Features**
 Add new truck information.
